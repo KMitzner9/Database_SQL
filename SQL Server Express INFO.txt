@@ -1,0 +1,11 @@
+SQL Server Express INFO
+
+Connection String:
+Server=localhost\SQLEXPRESS;Database=master;Trusted_Connection=True;
+
+Instance Name:
+SQLEXPRESS
+
+SQL Administrators:
+DESKTOP-59IDV07\Student
+
